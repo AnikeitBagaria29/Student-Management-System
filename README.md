@@ -167,7 +167,6 @@ By completing this project, students will learn how to:
 * Graphical User Interface (GUI) using Tkinter.
 * Database integration using SQLite or MySQL.
 * Student attendance management.
-* Grade and GPA calculation.
 * Report card generation.
 * Authentication for administrators.
 * Data visualization using Matplotlib or Seaborn.
