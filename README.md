@@ -11,14 +11,6 @@ Institution: UPES
 
 A Student Management System developed in Python as a mini-project to demonstrate the application of fundamental Python programming concepts. The project provides a simple menu-driven interface for managing student records, allowing users to add, view, search, update, and delete student information efficiently.
 
-## 📌 Project Objectives
-
-* Develop a menu-driven Student Management System.
-* Apply core Python programming concepts in a real-world application.
-* Organize and manage student records efficiently.
-* Demonstrate good coding practices with meaningful variable and function names.
-* Provide a modular and easy-to-understand implementation.
-
 # 🎓 EduVision AI
 
 ## Smart Student Success & Academic Analytics System
@@ -31,6 +23,26 @@ A Student Management System developed in Python as a mini-project to demonstrate
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![Version](https://img.shields.io/badge/Version-1.0-blueviolet)
+
+## 📑 Table of Contents
+
+- [Project Objectives](#project-objectives)
+- [Features](#features)
+- [Technologies Used](#technology-used)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Sample Output](#sample-output)
+- [Learning Outcomes](#learning-outcomes)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
+
+## 📌 Project Objectives
+
+* Develop a menu-driven Student Management System.
+* Apply core Python programming concepts in a real-world application.
+* Organize and manage student records efficiently.
+* Demonstrate good coding practices with meaningful variable and function names.
+* Provide a modular and easy-to-understand implementation.
 
 ## ✨ Features
 
@@ -48,6 +60,8 @@ A Student Management System developed in Python as a mini-project to demonstrate
 * Jupyter Notebook
 * CSV File Handling
 * Standard Python Libraries
+
+[⬆ Back to Top](#table-of-contents)
 
 ## 📂 Repository Structure
 
