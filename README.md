@@ -69,7 +69,7 @@ A Student Management System developed in Python as a mini-project to demonstrate
 Student-Management-System/
 │
 ├── README.md
-├── requirements.txt          # If external libraries are used
+├── requirements.txt
 │
 ├── notebooks-programs/
 │   └── Student_Management_System.ipynb
