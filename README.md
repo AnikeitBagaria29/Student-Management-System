@@ -1,4 +1,4 @@
-![Uploading EduVision Logo.png…]()
+![EduVisionAI Logo](./images/EduVision Logo.png)
 ![Repository Banner](./images/EduVisionAI_Repository_Banner.png)
 
 ## 👨‍🎓 Author
