@@ -2,10 +2,10 @@
 ![Repository Banner](./images/EduVisionAI_Repository_Banner.png)
 
 ## 👨‍🎓 Author
-Name: Anikeit Bagaria
-Roll Number:
-Course: M. Tech. CSE
-Institution: UPES
+Name: Anikeit Bagaria  
+Roll Number: 590040405  
+Course: M. Tech. CSE  
+Institution: UPES  
 
 ## 🎓 EduVision: Smart Student Performance Analytics & Academic Management System - Student Management System
 
