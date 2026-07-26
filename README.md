@@ -1,3 +1,5 @@
+![Repository Banner](./images/EduVisionAI_Repository_Banner.png)
+
 ## 👨‍🎓 Author
 Name: Anikeit Bagaria
 Roll Number:
