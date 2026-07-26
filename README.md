@@ -19,6 +19,19 @@ A Student Management System developed in Python as a mini-project to demonstrate
 * Demonstrate good coding practices with meaningful variable and function names.
 * Provide a modular and easy-to-understand implementation.
 
+# 🎓 EduVision AI
+
+## Smart Student Success & Academic Analytics System
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
+![CSV](https://img.shields.io/badge/Data-CSV-green)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![Version](https://img.shields.io/badge/Version-1.0-blueviolet)
+
 ## ✨ Features
 
 * ➕ Add a new student record
