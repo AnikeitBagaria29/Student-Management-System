@@ -4,7 +4,7 @@ Roll Number:
 Course: M. Tech. CSE
 Institution: UPES
 
-## 🎓 Student Management System: EduVision: Smart Student Performance Analytics & Academic Manageement System
+## 🎓 EduVision: Smart Student Performance Analytics & Academic Management System - Student Management System
 
 A Student Management System developed in Python as a mini-project to demonstrate the application of fundamental Python programming concepts. The project provides a simple menu-driven interface for managing student records, allowing users to add, view, search, update, and delete student information efficiently.
 
