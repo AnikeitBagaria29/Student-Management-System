@@ -65,6 +65,7 @@ A Student Management System developed in Python as a mini-project to demonstrate
 
 ## 📂 Repository Structure
 
+```text
 Student-Management-System/
 │
 ├── README.md
@@ -84,6 +85,7 @@ Student-Management-System/
 │   ├── system_flowchart.png
 │
 └── LICENSE
+```
 
 ## 🚀 Getting Started
 
