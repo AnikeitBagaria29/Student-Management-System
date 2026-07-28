@@ -71,7 +71,7 @@ Student-Management-System/
 ├── README.md
 ├── requirements.txt
 │
-├── notebooks-programs/
+├── notebooks/
 │   └── Student_Management_System.ipynb
 │   └── main.py
 │   └── student.py
